@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script 
+    src="https://kit.fontawesome.com/fc0bcca8a3.js"
+    crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="style-card.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon">
+                        <i class="fab fa-youtube"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="#" target="_blank">
+                            YouTube
+                        </a>
+                    </h3>
+                    <p>Proyecto 1</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon">
+                        <i class="fab fa-facebook-square"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="#" target="_blank">
+                            Facebook
+                        </a>
+                    </h3>
+                    <p>Proyecto 2</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1">
+                <div class="content">
+                    <div class="icon">
+                        <i class="fab fa-twitter"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="content">
+                    <h3>
+                        <a href="#" target="_blank">
+                            Twitter
+                        </a>
+                    </h3>
+                    <p>Proyecto 3</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
